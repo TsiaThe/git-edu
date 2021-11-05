@@ -1,3 +1,4 @@
 Git ignore of branch fb-01.
 *iml
 *.ipr
+*.iws
